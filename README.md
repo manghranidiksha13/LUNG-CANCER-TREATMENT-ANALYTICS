@@ -1,11 +1,13 @@
 # LUNG-CANCER-TREATMENT-ANALYTICS
 
 **1. Overview**
+
 An interactive dashboard that analyzes lung cancer risk based on lifestyle, symptoms, and demographic data.
 
 “Assess lung cancer risk and make informed health decisions using real-world data.”
 
 **2. Features**
+
 Visualizes key factors like smoking, alcohol use, and chronic disease
 
 Gender- and age-based trend analysis
